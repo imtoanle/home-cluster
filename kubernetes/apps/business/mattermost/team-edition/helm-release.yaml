@@ -44,7 +44,7 @@ spec:
           main:
             image:
               repository: mattermost/mattermost-team-edition
-              tag: 9.1.0@sha256:9a6427b6da27e25c9280dfe9bca55afe8b06bb50a8417f7ee1ad73e00aefe536
+              tag: 9.2.2@sha256:b77300aee2660ea37d9bbc390e3af548cd64da69ada5d2947894e89c7cb91467
             env:
               MM_CONFIG:
                 valueFrom:
